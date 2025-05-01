@@ -1,0 +1,72 @@
+[ 
+  {
+    "name": "Effective Online Teaching",
+    "content": "Learn how to design and deliver engaging online courses that support student success and active learning.",
+    "category": "Center for Teaching and Learning",
+    "slug": "effective-online-teaching",
+    "skills": ["Online Pedagogy", "Course Design", "Student Engagement"],
+    "level": "intermediate",
+    "duration": "4 weeks",
+    "image": "https://images.unsplash.com/photo-1584697964190-7c6df94f3db4"
+  },
+  {
+    "name": "Leadership Essentials",
+    "content": "Develop core leadership skills including communication, strategic thinking, and team management.",
+    "category": "Training and Development",
+    "slug": "leadership-essentials",
+    "skills": ["Leadership", "Strategic Thinking", "Communication"],
+    "level": "beginner",
+    "duration": "6 hours",
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d"
+  },
+  {
+    "name": "Academic Research Strategies",
+    "content": "Master effective research planning, scholarly publishing techniques, and data management tools.",
+    "category": "Research",
+    "slug": "academic-research-strategies",
+    "skills": ["Research Planning", "Academic Writing", "Data Management"],
+    "level": "advanced",
+    "duration": "8 weeks",
+    "image": "https://images.unsplash.com/photo-1573497491208-6b1acb260507"
+  },
+  {
+    "name": "Resume & Interview Mastery",
+    "content": "Craft powerful resumes and gain interview confidence to advance your professional journey.",
+    "category": "Career Services",
+    "slug": "resume-interview-mastery",
+    "skills": ["Resume Writing", "Interview Skills", "Career Planning"],
+    "level": "beginner",
+    "duration": "3 hours",
+    "image": "https://images.unsplash.com/photo-1587613866334-4ec1d6486925"
+  },
+  {
+    "name": "Conference Presentation Skills",
+    "content": "Enhance your public speaking and slide design to effectively present at academic or professional conferences.",
+    "category": "Conference and Seminars",
+    "slug": "conference-presentation-skills",
+    "skills": ["Public Speaking", "Presentation Design", "Confidence"],
+    "level": "intermediate",
+    "duration": "2 weeks",
+    "image": "https://images2.pics4learning.com/catalog/d/dsc02850.jpg"
+  },
+  {
+    "name": "Mentorship in Professional Development",
+    "content": "Learn how to become a better mentor and mentee through structured development practices.",
+    "category": "Professional Development",
+    "slug": "mentorship-professional-development",
+    "skills": ["Mentoring", "Communication", "Growth Mindset"],
+    "level": "intermediate",
+    "duration": "5 hours",
+    "image": "https://images.unsplash.com/photo-1573497491208-6b1acb260507"
+  },
+  {
+    "name": "Data-Driven Decision Making",
+    "content": "Explore how to use data analytics in education and training to drive smarter decisions.",
+    "category": "Consultation",
+    "slug": "data-driven-decision-making",
+    "skills": ["Data Analysis", "Decision Making", "Reporting"],
+    "level": "advanced",
+    "duration": "6 weeks",
+    "image": "https://images.unsplash.com/photo-1556155092-490a1ba16284"
+  }
+]

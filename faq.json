@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "question": "What types of programs does ORD offer?",
+      "answer": "ORD offers a wide range of programs including technical courses, soft skills training, professional certifications, and career development workshops across various industries."
+    },
+    {
+      "id": 2,
+      "question": "How do I enroll in a program?",
+      "answer": "You can enroll by browsing our programs, selecting your desired course, and clicking the 'Enroll Now' button. You'll need to create an account if you don't have one already."
+    },
+    {
+      "id": 3,
+      "question": "Are there any prerequisites for the programs?",
+      "answer": "Prerequisites vary by program. Some beginner courses have no requirements, while advanced programs may require prior knowledge or experience. Check individual program details for specific requirements."
+    },
+    {
+      "id": 4,
+      "question": "What is the duration of the programs?",
+      "answer": "Program durations range from short 2-week workshops to comprehensive 6-month courses. Each program page displays its estimated duration and time commitment."
+    },
+    {
+      "id": 5,
+      "question": "Do you offer certificates upon completion?",
+      "answer": "Yes, most of our programs offer certificates of completion. Some programs also provide industry-recognized certifications. All certificates are digital and can be shared on LinkedIn."
+    },
+    {
+      "id": 6,
+      "question": "What payment options are available?",
+      "answer": "We accept all major credit cards, PayPal, and bank transfers. We also offer installment plans for some programs and occasional scholarship opportunities."
+    }
+  ]
