@@ -1,0 +1,29 @@
+
+
+[
+    {
+      "title": "Post-Graduate Ph. D Training & Development",
+      "description": "AI & Data Science",
+      "category": "Post-Graduate Ph. D Training & Development",
+      "detailsLink": "/programs/post-graduate-phd"
+    },
+    {
+      "title": "Artificial Intelligence and Data Science",
+      "description": "Advanced AI Techniques and Big Data Analysis",
+      "category": "AI & Data Science",
+      "detailsLink": "/programs/ai-data-science"
+    },
+    {
+      "title": "SPSS & Data Analytics",
+      "description": "Statistical and Data Analytics",
+      "category": "Data Analytics",
+      "detailsLink": "/programs/spss-data-analytics"
+    },
+    {
+      "title": "R Programming",
+      "description": "Learn R for Data Science and Analysis",
+      "category": "Programming",
+      "detailsLink": "/programs/r-programming"
+    }
+  ]
+  

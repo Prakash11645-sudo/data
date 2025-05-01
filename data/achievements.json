@@ -1,0 +1,26 @@
+{
+    "title": "Our Achievements",
+    "description": "We take pride in empowering learners worldwide with quality education and transformative experiences. Explore our milestones that reflect our commitment to excellence.",
+    "metrics": [
+      {
+        "label": "Students Learning",
+        "value": 1500,
+        "icon": "users"
+      },
+      {
+        "label": "Graduated Till Now",
+        "value": 25,
+        "icon": "graduation-cap"
+      },
+      {
+        "label": "Free Courses",
+        "value": 120,
+        "icon": "book-open"
+      },
+      {
+        "label": "Qualified Instructors",
+        "value": 50,
+        "icon": "chalkboard-teacher"
+      }
+    ]
+  }

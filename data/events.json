@@ -1,0 +1,34 @@
+[
+    {
+      "date": "03 Dec 2024",
+      "title": "How to Speak Like a Native",
+      "description": "Join our interactive workshop to master the art of fluent, natural communication with expert tips and practice sessions.",
+      "time": "10:30 PM",
+      "location": "AH Auditorium",
+      "detailsLink": "/events/speak-like-native-2024" 
+    },
+    {
+      "date": "15 Jan 2025",
+      "title": "AI in Everyday Life",
+      "description": "Explore how artificial intelligence is transforming daily tasks and learn practical applications in this engaging seminar.",
+      "time": "6:00 PM",
+      "location": "Tech Hub Conference Room",
+      "detailsLink": "/events/ai-everyday-life-2025"
+    },
+    {
+      "date": "22 Feb 2025",
+      "title": "Creative Writing Masterclass",
+      "description": "Unleash your storytelling potential with guidance from renowned authors in this hands-on writing workshop.",
+      "time": "2:00 PM",
+      "location": "Community Arts Center",
+      "detailsLink": "/events/creative-writing-2025"
+    },
+    {
+      "date": "10 Mar 2025",
+      "title": "Data Science for Beginners",
+      "description": "Get started with data science through real-world examples and practical exercises in this introductory session.",
+      "time": "7:00 PM",
+      "location": "Innovation Lab",
+      "detailsLink": "/events/data-science-beginners-2025"
+    }
+  ]

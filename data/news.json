@@ -1,0 +1,31 @@
+[
+    {
+      "image": "https://via.assets.so/album.png?id=2&q=95&w=360&h=360&fit=fill",
+      "heading": "New AI Course Launched",
+      "content": "Our latest AI course, focusing on machine learning and neural networks, is now open for enrollment. Join us to explore cutting-edge technologies.",
+      "date": "15 Apr 2025",
+      
+      "slug": "ai-course-launch-2025"
+    },
+    {
+      "image": "https://via.assets.so/album.png?id=1&q=95&w=360&h=360&fit=fill",
+      "heading": "Annual Tech Summit Success",
+      "content": "The 2025 Tech Summit brought together industry leaders and innovators to discuss the future of technology. Check out the highlights.",
+      "date": "10 Mar 2025",
+      "slug": "tech-summit-2025"
+    },
+    {
+      "image": "https://via.assets.so/album.png?id=7&q=95&w=360&h=360&fit=fill",
+      "heading": "Free Coding Workshop for Beginners",
+      "content": "We hosted a free coding workshop for beginners, teaching Python and web development basics to over 100 participants.",
+      "date": "22 Feb 2025",
+      "slug": "coding-workshop-2025"
+    },
+    {
+      "image": "https://via.assets.so/album.png?id=11&q=95&w=360&h=360&fit=fill",
+      "heading": "Partnership with Local Universities",
+      "content": "We've partnered with top universities to offer accredited courses and expand access to quality education.",
+      "date": "05 Jan 2025",
+      "slug": "university-partnership-2025"
+    }
+  ]
