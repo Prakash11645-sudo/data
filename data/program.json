@@ -1,72 +1,204 @@
-[ 
+[
+  
   {
-    "name": "Effective Online Teaching",
-    "content": "Learn how to design and deliver engaging online courses that support student success and active learning.",
+    "name": "Professional Development",
+    "content": "Comprehensive training programs to enhance teaching skills and academic career growth.",
     "category": "Center for Teaching and Learning",
-    "slug": "effective-online-teaching",
-    "skills": ["Online Pedagogy", "Course Design", "Student Engagement"],
+    "slug": "professional-development",
+    "skills": ["Teaching Methods", "Curriculum Design", "Academic Leadership"],
+    "level": "intermediate",
+    "duration": "6 weeks",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f"
+  },
+  {
+    "name": "AI in Education",
+    "content": "Exploring artificial intelligence applications for modern teaching and learning environments.",
+    "category": "Center for Teaching and Learning",
+    "slug": "ai-in-education",
+    "skills": ["AI Tools", "EdTech", "Automated Grading"],
     "level": "intermediate",
     "duration": "4 weeks",
-    "image": "https://images.unsplash.com/photo-1573497491208-6b1acb260507"
+    "image": "https://images.unsplash.com/photo-1573497620053-ea5300f94b21"
   },
   {
-    "name": "Leadership Essentials",
-    "content": "Develop core leadership skills including communication, strategic thinking, and team management.",
-    "category": "Training and Development",
-    "slug": "leadership-essentials",
-    "skills": ["Leadership", "Strategic Thinking", "Communication"],
-    "level": "beginner",
-    "duration": "6 hours",
-    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d"
+    "name": "Data Science for Educators",
+    "content": "Using data science techniques to improve educational outcomes and institutional effectiveness.",
+    "category": "Center for Teaching and Learning",
+    "slug": "data-science-for-educators",
+    "skills": ["Learning Analytics", "Data Visualization", "Assessment"],
+    "level": "advanced",
+    "duration": "5 weeks",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71"
   },
   {
-    "name": "Academic Research Strategies",
-    "content": "Master effective research planning, scholarly publishing techniques, and data management tools.",
-    "category": "Research",
-    "slug": "academic-research-strategies",
-    "skills": ["Research Planning", "Academic Writing", "Data Management"],
+    "name": "SPSS & R Programming Certification",
+    "content": "Certification course for educational researchers in statistical analysis tools.",
+    "category": "Center for Teaching and Learning",
+    "slug": "spss-r-certification",
+    "skills": ["Statistical Analysis", "Data Processing", "Research Methods"],
     "level": "advanced",
     "duration": "8 weeks",
-    "image": "https://images.unsplash.com/photo-1573497491208-6b1acb260507"
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f"
+  },
+
+  
+
+
+
+  {
+    "name": "Leadership Skills Development",
+    "content": "Building essential leadership competencies for organizational success.",
+    "category": "Training and Development",
+    "slug": "leadership-skills",
+    "skills": ["Decision Making", "Team Building", "Strategic Planning"],
+    "level": "intermediate",
+    "duration": "4 weeks",
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf"
   },
   {
-    "name": "Resume & Interview Mastery",
-    "content": "Craft powerful resumes and gain interview confidence to advance your professional journey.",
-    "category": "Career Services",
-    "slug": "resume-interview-mastery",
-    "skills": ["Resume Writing", "Interview Skills", "Career Planning"],
+    "name": "Advanced Management Techniques",
+    "content": "Contemporary approaches to effective organizational management.",
+    "category": "Training and Development",
+    "slug": "management-techniques",
+    "skills": ["Project Management", "Conflict Resolution", "Performance Evaluation"],
+    "level": "advanced",
+    "duration": "5 weeks",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978"
+  },
+  {
+    "name": "Digital Marketing Strategies",
+    "content": "Comprehensive training in modern digital marketing tools and techniques.",
+    "category": "Training and Development",
+    "slug": "digital-marketing",
+    "skills": ["SEO", "Social Media", "Content Marketing"],
     "level": "beginner",
-    "duration": "3 hours",
-    "image": "https://images.unsplash.com/photo-1573497491208-6b1acb260507"
+    "duration": "6 weeks",
+    "image": "https://images.unsplash.com/photo-1551434678-e076c223a692"
   },
+
+  
   {
-    "name": "Conference Presentation Skills",
-    "content": "Enhance your public speaking and slide design to effectively present at academic or professional conferences.",
-    "category": "Conference and Seminars",
-    "slug": "conference-presentation-skills",
-    "skills": ["Public Speaking", "Presentation Design", "Confidence"],
-    "level": "intermediate",
-    "duration": "2 weeks",
-    "image": "https://images2.pics4learning.com/catalog/d/dsc02850.jpg"
-  },
-  {
-    "name": "Mentorship in Professional Development",
-    "content": "Learn how to become a better mentor and mentee through structured development practices.",
-    "category": "Professional Development",
-    "slug": "mentorship-professional-development",
-    "skills": ["Mentoring", "Communication", "Growth Mindset"],
-    "level": "intermediate",
-    "duration": "5 hours",
-    "image": "https://images.unsplash.com/photo-1573497491208-6b1acb260507"
-  },
-  {
-    "name": "Data-Driven Decision Making",
-    "content": "Explore how to use data analytics in education and training to drive smarter decisions.",
-    "category": "Consultation",
-    "slug": "data-driven-decision-making",
-    "skills": ["Data Analysis", "Decision Making", "Reporting"],
+    "name": "Corporate Research Methods",
+    "content": "Advanced research techniques for business and corporate environments.",
+    "category": "Research",
+    "slug": "corporate-research",
+    "skills": ["Market Research", "Competitive Analysis", "Business Intelligence"],
     "level": "advanced",
     "duration": "6 weeks",
-    "image": "https://images.unsplash.com/photo-1556155092-490a1ba16284"
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40"
+  },
+  {
+    "name": "Policy Research and Analysis",
+    "content": "Methodologies for effective public policy research and evaluation.",
+    "category": "Research",
+    "slug": "policy-research",
+    "skills": ["Policy Analysis", "Stakeholder Mapping", "Impact Assessment"],
+    "level": "intermediate",
+    "duration": "5 weeks",
+    "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85"
+  },
+  {
+    "name": "Government Research Techniques",
+    "content": "Specialized research approaches for public sector and government applications.",
+    "category": "Research",
+    "slug": "government-research",
+    "skills": ["Public Administration", "Regulatory Research", "Compliance"],
+    "level": "advanced",
+    "duration": "7 weeks",
+    "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0"
+  },
+  {
+    "name": "Market Analysis Fundamentals",
+    "content": "Essential techniques for conducting comprehensive market research.",
+    "category": "Research",
+    "slug": "market-analysis",
+    "skills": ["Consumer Research", "Trend Analysis", "Forecasting"],
+    "level": "intermediate",
+    "duration": "4 weeks",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71"
+  },
+  {
+    "name": "Action Research Methodology",
+    "content": "Practical approaches to action research for organizational improvement.",
+    "category": "Research",
+    "slug": "action-research",
+    "skills": ["Participatory Research", "Intervention Design", "Evaluation"],
+    "level": "intermediate",
+    "duration": "5 weeks",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40"
+  },
+  {
+    "name": "Data Collection Techniques",
+    "content": "Modern methods for effective primary and secondary data collection.",
+    "category": "Research",
+    "slug": "data-collection",
+    "skills": ["Survey Design", "Interview Techniques", "Data Mining"],
+    "level": "beginner",
+    "duration": "3 weeks",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71"
+  },
+  {
+    "name": "Feasibility Study Preparation",
+    "content": "Comprehensive training in conducting professional feasibility studies.",
+    "category": "Research",
+    "slug": "feasibility-studies",
+    "skills": ["Cost Analysis", "Risk Assessment", "ROI Calculation"],
+    "level": "advanced",
+    "duration": "6 weeks",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40"
+  },
+
+  
+  {
+    "name": "National Academic Conference",
+    "content": "Premier national gathering for academic discourse and knowledge sharing.",
+    "category": "Conferences and Seminars",
+    "slug": "national-conference",
+    "skills": ["Academic Networking", "Knowledge Dissemination", "Collaboration"],
+    "level": "all",
+    "duration": "2 days",
+    "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30"
+  },
+  {
+    "name": "International Research Symposium",
+    "content": "Global platform for presenting cutting-edge research across disciplines.",
+    "category": "Conferences and Seminars",
+    "slug": "international-symposium",
+    "skills": ["Global Networking", "Research Presentation", "Cross-cultural Exchange"],
+    "level": "all",
+    "duration": "3 days",
+    "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2"
+  },
+
+  
+  {
+    "name": "Career Service Consultation",
+    "content": "Personalized career guidance and professional development planning.",
+    "category": "Consultation",
+    "slug": "career-service",
+    "skills": ["Career Planning", "Skill Assessment", "Job Search Strategies"],
+    "level": "all",
+    "duration": "Custom",
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf"
+  },
+  {
+    "name": "Policy Consultation",
+    "content": "Expert advisory services for policy development and implementation.",
+    "category": "Consultation",
+    "slug": "policy-consultation",
+    "skills": ["Policy Design", "Stakeholder Engagement", "Implementation Strategy"],
+    "level": "advanced",
+    "duration": "Custom",
+    "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0"
+  },
+  {
+    "name": "Management Consultation",
+    "content": "Tailored solutions for organizational management challenges.",
+    "category": "Consultation",
+    "slug": "management-consultation",
+    "skills": ["Organizational Development", "Process Improvement", "Change Management"],
+    "level": "advanced",
+    "duration": "Custom",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978"
   }
 ]
