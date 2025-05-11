@@ -1,162 +1,297 @@
 [
-    {
-      "name": "Dr. Surendra Neupane",
-      "slug": "surendra-neupane",
-      "role": "Consumer Psychology Researcher",
-      "image": "https://img.freepik.com/free-photo/close-up-portrait-young-bearded-man-white-shirt-jacket-posing-camera-with-broad-smile-isolated-gray_171337-629.jpg?t=st=1746027481~exp=1746031081~hmac=3042ae4eb3fb2d03178f629587c1d07a74131e395fdb8d2db68039d9e9d80b5a&w=1380",
-      "team": "Economic & Market Research",
-      "bio": "Expert in consumer psychology with over 15 years of academic and field research."
-    },
-    {
-      "name": "Dr. Nirmal Adhikari",
-      "slug": "nirmal-adhikari",
-      "role": "Economic Modeler",
-      "image": "https://img.freepik.com/free-photo/close-up-portrait-young-bearded-man-white-shirt-jacket-posing-camera-with-broad-smile-isolated-gray_171337-629.jpg?t=st=1746027481~exp=1746031081~hmac=3042ae4eb3fb2d03178f629587c1d07a74131e395fdb8d2db68039d9e9d80b5a&w=1380",
-      "team": "Economic & Market Research",
-      "bio": "Focused on market dynamics and economic modeling in South Asia."
-    },
-    {
-      "name": "Prof. Reema Joshi",
-      "slug": "reema-joshi",
-      "role": "Econometrician",
-      "image": "https://img.freepik.com/free-photo/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187.jpg?t=st=1746026982~exp=1746030582~hmac=24984fb8e25feb9348baa034fec286ceb8f8f98714bcbb83811acec94e0db455&w=1380",
-      "team": "Economic & Market Research",
-      "bio": "Econometrics and statistical analysis specialist with global teaching experience."
-    },
-    {
-      "name": "Dr. Bikash Karki",
-      "slug": "bikash-karki",
-      "role": "Behavioral Economist",
-      "image": "https://img.freepik.com/free-photo/close-up-portrait-young-bearded-man-white-shirt-jacket-posing-camera-with-broad-smile-isolated-gray_171337-629.jpg?t=st=1746027481~exp=1746031081~hmac=3042ae4eb3fb2d03178f629587c1d07a74131e395fdb8d2db68039d9e9d80b5a&w=1380",
-      "team": "Economic & Market Research",
-      "bio": "Researches behavioral economics and its application in emerging markets."
-    },
-    {
-      "name": "Dr. Aasha Kharel",
-      "slug": "aasha-kharel",
-      "role": "Rural Planning Expert",
-      "image": "https://img.freepik.com/free-photo/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187.jpg?t=st=1746026982~exp=1746030582~hmac=24984fb8e25feb9348baa034fec286ceb8f8f98714bcbb83811acec94e0db455&w=1380",
-      "team": "Rural Development & Social Science",
-      "bio": "Leads projects empowering rural communities through participatory planning."
-    },
-    {
-      "name": "Prof. Kamal Pandey",
-      "slug": "kamal-pandey",
-      "role": "Sociologist",
-      "image": "https://img.freepik.com/free-photo/close-up-portrait-young-bearded-man-white-shirt-jacket-posing-camera-with-broad-smile-isolated-gray_171337-629.jpg?t=st=1746027481~exp=1746031081~hmac=3042ae4eb3fb2d03178f629587c1d07a74131e395fdb8d2db68039d9e9d80b5a&w=1380",
-      "team": "Rural Development & Social Science",
-      "bio": "Sociologist exploring migration, livelihoods, and rural-urban transitions."
-    },
-    {
-      "name": "Dr. Sita Devkota",
-      "slug": "sita-devkota",
-      "role": "Gender & Inclusion Advocate",
-      "image": "https://img.freepik.com/free-photo/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187.jpg?t=st=1746026982~exp=1746030582~hmac=24984fb8e25feb9348baa034fec286ceb8f8f98714bcbb83811acec94e0db455&w=1380",
-      "team": "Rural Development & Social Science",
-      "bio": "Community development advocate with expertise in gender and inclusion."
-    },
-    {
-      "name": "Dr. Lokendra Shah",
-      "slug": "lokendra-shah",
-      "role": "Rural Policy Researcher",
-      "image": "https://img.freepik.com/free-photo/close-up-portrait-young-bearded-man-white-shirt-jacket-posing-camera-with-broad-smile-isolated-gray_171337-629.jpg?t=st=1746027481~exp=1746031081~hmac=3042ae4eb3fb2d03178f629587c1d07a74131e395fdb8d2db68039d9e9d80b5a&w=1380",
-      "team": "Rural Development & Social Science",
-      "bio": "Conducts longitudinal studies on rural infrastructure and policy impact."
-    },
-    {
-      "name": "Dr. Ramesh Shrestha",
-      "slug": "ramesh-shrestha",
-      "role": "Education Reform Specialist",
-      "image": "https://img.freepik.com/free-photo/close-up-portrait-young-bearded-man-white-shirt-jacket-posing-camera-with-broad-smile-isolated-gray_171337-629.jpg?t=st=1746027481~exp=1746031081~hmac=3042ae4eb3fb2d03178f629587c1d07a74131e395fdb8d2db68039d9e9d80b5a&w=1380",
-      "team": "Education & Development",
-      "bio": "Pedagogy reformer working to align education systems with modern skills."
-    },
-    {
-      "name": "Dr. Bina Thapa",
-      "slug": "bina-thapa",
-      "role": "Early Childhood Educator",
-      "image": "https://img.freepik.com/free-photo/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187.jpg?t=st=1746026982~exp=1746030582~hmac=24984fb8e25feb9348baa034fec286ceb8f8f98714bcbb83811acec94e0db455&w=1380",
-      "team": "Education & Development",
-      "bio": "Early childhood education expert with nationwide impact studies."
-    },
-    {
-      "name": "Prof. Arjun Basnet",
-      "slug": "arjun-basnet",
-      "role": "Higher Education Policy Analyst",
-      "image": "https://img.freepik.com/free-photo/close-up-portrait-young-bearded-man-white-shirt-jacket-posing-camera-with-broad-smile-isolated-gray_171337-629.jpg?t=st=1746027481~exp=1746031081~hmac=3042ae4eb3fb2d03178f629587c1d07a74131e395fdb8d2db68039d9e9d80b5a&w=1380",
-      "team": "Education & Development",
-      "bio": "Focuses on higher education policy and leadership in academic institutions."
-    },
-    {
-      "name": "Dr. Nisha Maharjan",
-      "slug": "nisha-maharjan",
-      "role": "EdTech Integrator",
-      "image": "https://img.freepik.com/free-photo/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187.jpg?t=st=1746026982~exp=1746030582~hmac=24984fb8e25feb9348baa034fec286ceb8f8f98714bcbb83811acec94e0db455&w=1380",
-      "team": "Education & Development",
-      "bio": "Works on integrating technology into traditional learning frameworks."
-    },
-    {
-      "name": "Dr. Mina Thapa",
-      "slug": "mina-thapa",
-      "role": "Environmental Scientist",
-      "image": "https://img.freepik.com/free-photo/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187.jpg?t=st=1746026982~exp=1746030582~hmac=24984fb8e25feb9348baa034fec286ceb8f8f98714bcbb83811acec94e0db455&w=1380",
-      "team": "Natural Science & Resources",
-      "bio": "Environmental scientist focusing on biodiversity and conservation."
-    },
-    {
-      "name": "Dr. Rajan Gurung",
-      "slug": "rajan-gurung",
-      "role": "Geologist",
-      "image": "https://img.freepik.com/free-photo/close-up-portrait-young-bearded-man-white-shirt-jacket-posing-camera-with-broad-smile-isolated-gray_171337-629.jpg?t=st=1746027481~exp=1746031081~hmac=3042ae4eb3fb2d03178f629587c1d07a74131e395fdb8d2db68039d9e9d80b5a&w=1380",
-      "team": "Natural Science & Resources",
-      "bio": "Geologist studying Nepal's natural hazards and resource management."
-    },
-    {
-      "name": "Prof. Shila Koirala",
-      "slug": "shila-koirala",
-      "role": "Agriculture & Water Resource Specialist",
-      "image": "https://img.freepik.com/free-photo/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187.jpg?t=st=1746026982~exp=1746030582~hmac=24984fb8e25feb9348baa034fec286ceb8f8f98714bcbb83811acec94e0db455&w=1380",
-      "team": "Natural Science & Resources",
-      "bio": "Sustainable agriculture and water resource specialist."
-    },
-    {
-      "name": "Dr. Milan Bhattarai",
-      "slug": "milan-bhattarai",
-      "role": "Renewable Energy Researcher",
-      "image": "https://img.freepik.com/free-photo/close-up-portrait-young-bearded-man-white-shirt-jacket-posing-camera-with-broad-smile-isolated-gray_171337-629.jpg?t=st=1746027481~exp=1746031081~hmac=3042ae4eb3fb2d03178f629587c1d07a74131e395fdb8d2db68039d9e9d80b5a&w=1380",
-      "team": "Natural Science & Resources",
-      "bio": "Leads research on renewable energy and rural electrification."
-    },
-    {
-      "name": "Dr. Anil Gurung",
-      "slug": "anil-gurung",
-      "role": "AI & NLP Expert",
-      "image": "https://img.freepik.com/free-photo/close-up-portrait-young-bearded-man-white-shirt-jacket-posing-camera-with-broad-smile-isolated-gray_171337-629.jpg?t=st=1746027481~exp=1746031081~hmac=3042ae4eb3fb2d03178f629587c1d07a74131e395fdb8d2db68039d9e9d80b5a&w=1380",
-      "team": "IT, Data Analytics & AI",
-      "bio": "AI researcher with experience in machine learning and NLP systems."
-    },
-    {
-      "name": "Dr. Samjhana Rana",
-      "slug": "samjhana-rana",
-      "role": "Big Data Analyst",
-      "image": "https://img.freepik.com/free-photo/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187.jpg?t=st=1746026982~exp=1746030582~hmac=24984fb8e25feb9348baa034fec286ceb8f8f98714bcbb83811acec94e0db455&w=1380",
-      "team": "IT, Data Analytics & AI",
-      "bio": "Big data and visualization specialist applying insights to development."
-    },
-    {
-      "name": "Prof. Bikram Adhikari",
-      "slug": "bikram-adhikari",
-      "role": "Cybersecurity & Ethics Specialist",
-      "image": "https://img.freepik.com/free-photo/close-up-portrait-young-bearded-man-white-shirt-jacket-posing-camera-with-broad-smile-isolated-gray_171337-629.jpg?t=st=1746027481~exp=1746031081~hmac=3042ae4eb3fb2d03178f629587c1d07a74131e395fdb8d2db68039d9e9d80b5a&w=1380",
-      "team": "IT, Data Analytics & AI",
-      "bio": "Focuses on cybersecurity and digital ethics in AI systems."
-    },
-    {
-      "name": "Dr. Karuna Shrestha",
-      "slug": "karuna-shrestha",
-      "role": "Predictive Modeling Expert",
-      "image": "https://img.freepik.com/free-photo/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187.jpg?t=st=1746026982~exp=1746030582~hmac=24984fb8e25feb9348baa034fec286ceb8f8f98714bcbb83811acec94e0db455&w=1380",
-      "team": "IT, Data Analytics & AI",
-      "bio": "Expert in data-driven decision making and predictive modeling."
-    }
+
+
+ 
+
+  {
+    "name": "Surendra Neupane, PhD",
+    "slug": "dr-surendra-neupane",
+    "role": "Prominent academician, researcher, consultant, and entrepreneur since 2004, perused his doctorate in consumer psychology.",
+    "image": "/dr-surendra-neupane.jpg",
+    "team": "Business Management and Economics",
+    "bio": "Dr. Surendra Neupane is a distinguished academician, researcher, consultant, and entrepreneur with extensive expertise in consumer psychology, international business, and contemporary social issues. Dr. Neupane has made significant contributions to academia and industry, seamlessly blending theoretical insights with practical applications. As a prolific researcher, Dr. Neupane's research is characterized by a multidisciplinary approach, published numerous high-impact papers in reputable journals, including Scopus-indexed journals. Dr. Neupane is currently serving as a lecturer where leading courses in Consumer Behavior, Marketing Management, Marketing Research and International Business and serving as a co-supervisor for PhD scholars at Lincoln University College, Malaysia/ Centre of Postgraduate Studies. In addition to academic roles, Dr. Neupane actively mentors doctoral, graduate and postgraduate students as a thesis supervisor. Beyond academia, Dr. Neupane has amassed extensive industry experience as an entrepreneur, successfully managing ventures in industries, e.g., investment, retail, research, consulting, and manufacturing. Moreover, Dr. Neupane's dedication to knowledge dissemination extends to workshops and training programs. Where continuously empower and inspire participants, collaborate with international peers, and contribute meaningfully to the fields of business and social sciences."
+  },
+  {
+    "name": "Rabin Subedi, PhD",
+    "slug": "dr-rabin-subedi",
+    "role": "Prominent academician, researcher, consultant, and entrepreneur since 2004, perused his doctorate in Human Resource Management.",
+    "image": "/dr-rabin-subedi.jpg",
+    "team": "Business Management and Economics",
+    "bio": "Rabin Subedi is a distinguished academic and professional with over 15 years of experience in teaching and research. He serves as the coordinator of the Department of Management at Lincoln College, affiliated with Tribhuvan University in Kathmandu, Nepal. In this role, he has supervised numerous master's theses and published several articles on human resource management. He holds a PhD in Human Resource Management from Lincoln University College in Malaysia, along with multiple master's degrees. These include a degree in Professional Accounting from the University of Southern Queensland in Australia and a degree in Business Studies from Tribhuvan University in Nepal. His professional journey includes leadership positions such as Chairman and former CEO of Sustainable Appliances Nepal Pvt. Ltd., as well as Founder Director of Sparsha Microfinance Ltd. Rabin is also experienced in student advising and has presented his research at international conferences. He has traveled to various countries, including India, Singapore, Malaysia, Thailand, and Australia, which has provided him with valuable global insights. His commitment to education and research has made significant contributions to the field of management, positively influencing both academic and professional spheres."
+  },
+  {
+    "name": "Ajay Kumar Mishra",
+    "slug": "ajay-kumar-mishra",
+    "role": "Prominent academician, researcher, consultant, and entrepreneur since 2004, perused his doctorate in consumer psychology.",
+    "image": "/ajay-kumar-mishra.jpg",
+    "team": "Business Management and Economics",
+    "bio": ""
+  },
+  {
+    "name": "Ram Prasad Parajuli, PhD",
+    "slug": "dr-ram-prasad-parajuli",
+    "role": "Prominent academician, researcher, consultant, and entrepreneur since 2004, perused his doctorate in consumer psychology.",
+    "image": "/dr-ram-prasad-parajuli.jpg",
+    "team": "Business Management and Economics",
+    "bio": "Ram Prasad Parajuli is a distinguished educator and accomplished scholar in the field of business. He completed his Master's degree from Tribhuvan University, where he demonstrated exceptional dedication to academic excellence. Driven by a thirst for knowledge, Ram Prasad pursued his Ph.D. at DKNM University, where he delved deep into his research interests. His doctoral studies not only expanded his expertise but also solidified his commitment to the world of academia. With a profound passion for teaching, Ram Prasad Parajuli has been imparting his knowledge and insights to students, nurturing the next generation of business leaders. His teaching style is known for its clarity and ability to inspire young minds. Currently he involved with different program of T.U. as a visiting faculty of Dr. K N Modi University, India, Infrastructure university, Kuala Lumpur, Malaysia, A level program of Cambridge university. In addition to his teaching, Ram Prasad actively contributes to the field through his research, with notable publications and academic engagements and he directly involve in different sector of business activity."
+  },
+  {
+    "name": "Amar Bahadur Thapa, PhD Scholar",
+    "slug": "amar-bahadur-thapa",
+    "role": "Prominent academician, researcher, consultant, and entrepreneur since 2004, perused his doctorate in consumer psychology.",
+    "image": "/amar-bahadur-thapa.jpg",
+    "team": "Business Management and Economics",
+    "bio": ""
+  },
+  {
+    "name": "Bijay Raj Acharya",
+    "slug": "bijay-raj-acharya",
+    "role": "",
+    "image": "/bijay-raj-acharya.jpg",
+    "team": "Business Management and Economics",
+    "bio": ""
+  },
+  {
+    "name": "Binod Nepal, PhD",
+    "slug": "dr-binod-nepal",
+    "role": "Prominent academician, researcher, and consultant since 2004, perused his doctorate in mathematics.",
+    "image": "/dr-binod-nepal.jpg",
+    "team": "Education",
+    "bio": "Dr. Binod Nepal is a dedicated academic leader, researcher, and education expert from Sindhupalchok, Nepal. Born on July 3, 1979, he earned his PhD in Education with a specialization in Mathematics Education from Dr. K.N. Modi University, India. Dr. Nepal has over two decades of experience in teaching, research and capacity-building initiatives across Nepal. He serves as CEO of Evidhya, Director at Opinion Research & Development, lecturer at Koteshwor Multiple Campus and other academic institutions. A creative researcher, he has led studies on education, disaster management, and sustainable development, contributing to policy-making at local, province and national levels. Passionate about empowering communities, Dr. Nepal continues to inspire change through strategic planning, training, and knowledge-sharing."
+  },
+  {
+    "name": "Hari Chandra Khadka",
+    "slug": "hari-chandra-khadka",
+    "role": "Prominent academician, researcher, and consultant since 2004, perused his doctorate in mathematics.",
+    "image": "/hari-chandra-khadka.jpg",
+    "team": "Education",
+    "bio": "With 13 year's teaching experience in both private and public educational institutions Hari decided to work for a greater cause which led him to become a trainer, facilitator and mentor. He is an accredited facilitator of New Hope International Australia and a Lifetime Member of Council for Mathematics Education (CME), Nepal. He also worked as a Program Director in 'Education for All', a project funded by Swedish Charity and is a Founding Member of Opinion Research and Development, a research and professional development institution. He is also actively involved in teaching, mentoring and supporting mathematics teachers and learners, leading teachers training/workshop, overseeing the curriculum, planning and project management, policy Research and formulation, research and proposal writing including other academic works. He is well experienced in liaising with concerned authorities and is good at maintaining organizational relations."
+  },
+  {
+    "name": "Raju Ram Adhikari, PhD Scholar",
+    "slug": "raju-ram-adhikari",
+    "role": "Prominent academician, entrepreneur and consultant since 2004, perusing his doctorate in Rural development",
+    "image": "/raju-ram-adhikari.jpg",
+    "team": "Humanities and Social Science",
+    "bio": ""
+  },
+  {
+    "name": "Prof. Dr. Hari Bahadur Rana",
+    "slug": "prof-dr-hari-bahadur-rana",
+    "role": "",
+    "image": "/prof-dr-hari-bahadur-rana.jpg",
+    "team": "Health Science",
+    "bio": ""
+  },
+  {
+    "name": "Pradhumna Mahat, PhD",
+    "slug": "dr-pradhumna-mahat",
+    "role": "Prominent academician and researcher since 2004, perused his doctorate in Chemistry.",
+    "image": "/dr-pradhumna-mahat.jpg",
+    "team": "Science",
+    "bio": ""
+  },
+  {
+    "name": "Madhav Dhital, PhD",
+    "slug": "dr-madhav-dhital",
+    "role": "",
+    "image": "/dr-madhav-dhital.jpg",
+    "team": "Science",
+    "bio": ""
+  },
+  {
+    "name": "Hare Ram Shrestha, PhD",
+    "slug": "dr-hare-ram-shrestha",
+    "role": "Prominent consultant and researcher since 1990, perused his doctorate in Urban Development.",
+    "image": "/dr-hare-ram-shrestha.jpg",
+    "team": "Engineering",
+    "bio": ""
+  },
+  {
+    "name": "Chandra Bilas Bhurtel",
+    "slug": "chandra-bilas-bhurtel",
+    "role": "",
+    "image": "/chandra-bilas-bhurtel.jpg",
+    "team": "Technology",
+    "bio": ""
+  },
+  
+
+
+  {
+    "name": "Dr. Nirmal Adhikari",
+    "slug": "nirmal-adhikari",
+    "role": "Economic Modeler",
+    "image": "https://img.freepik.com/free-photo/close-up-portrait-young-bearded-man-white-shirt-jacket-posing-camera-with-broad-smile-isolated-gray_171337-629.jpg?t=st=1746027481~exp=1746031081~hmac=3042ae4eb3fb2d03178f629587c1d07a74131e395fdb8d2db68039d9e9d80b5a&w=1380",
+    "team": "Business Management and Economics",
+    "bio": "Focused on market dynamics and economic modeling in South Asia."
+  },
+  {
+    "name": "Prof. Reema Joshi",
+    "slug": "reema-joshi",
+    "role": "Econometrician",
+    "image": "https://img.freepik.com/free-photo/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187.jpg?t=st=1746026982~exp=1746030582~hmac=24984fb8e25feb9348baa034fec286ceb8f8f98714bcbb83811acec94e0db455&w=1380",
+    "team": "Business Management and Economics",
+    "bio": "Econometrics and statistical analysis specialist with global teaching experience."
+  },
+  {
+    "name": "Dr. Bikash Karki",
+    "slug": "bikash-karki",
+    "role": "Behavioral Economist",
+    "image": "https://img.freepik.com/free-photo/close-up-portrait-young-bearded-man-white-shirt-jacket-posing-camera-with-broad-smile-isolated-gray_171337-629.jpg?t=st=1746027481~exp=1746031081~hmac=3042ae4eb3fb2d03178f629587c1d07a74131e395fdb8d2db68039d9e9d80b5a&w=1380",
+    "team": "Business Management and Economics",
+    "bio": "Researches behavioral economics and its application in emerging markets."
+  },
+  {
+    "name": "Dr. Aasha Kharel",
+    "slug": "aasha-kharel",
+    "role": "Rural Planning Expert",
+    "image": "https://img.freepik.com/free-photo/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187.jpg?t=st=1746026982~exp=1746030582~hmac=24984fb8e25feb9348baa034fec286ceb8f8f98714bcbb83811acec94e0db455&w=1380",
+    "team": "Humanities and Social Science",
+    "bio": "Leads projects empowering rural communities through participatory planning."
+  },
+  {
+    "name": "Prof. Kamal Pandey",
+    "slug": "kamal-pandey",
+    "role": "Sociologist",
+    "image": "https://img.freepik.com/free-photo/close-up-portrait-young-bearded-man-white-shirt-jacket-posing-camera-with-broad-smile-isolated-gray_171337-629.jpg?t=st=1746027481~exp=1746031081~hmac=3042ae4eb3fb2d03178f629587c1d07a74131e395fdb8d2db68039d9e9d80b5a&w=1380",
+    "team": "Humanities and Social Science",
+    "bio": "Sociologist exploring migration, livelihoods, and rural-urban transitions."
+  },
+  {
+    "name": "Dr. Sita Devkota",
+    "slug": "sita-devkota",
+    "role": "Gender & Inclusion Advocate",
+    "image": "https://img.freepik.com/free-photo/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187.jpg?t=st=1746026982~exp=1746030582~hmac=24984fb8e25feb9348baa034fec286ceb8f8f98714bcbb83811acec94e0db455&w=1380",
+    "team": "Humanities and Social Science",
+    "bio": "Community development advocate with expertise in gender and inclusion."
+  },
+  {
+    "name": "Dr. Lokendra Shah",
+    "slug": "lokendra-shah",
+    "role": "Rural Policy Researcher",
+    "image": "https://img.freepik.com/free-photo/close-up-portrait-young-bearded-man-white-shirt-jacket-posing-camera-with-broad-smile-isolated-gray_171337-629.jpg?t=st=1746027481~exp=1746031081~hmac=3042ae4eb3fb2d03178f629587c1d07a74131e395fdb8d2db68039d9e9d80b5a&w=1380",
+    "team": "Humanities and Social Science",
+    "bio": "Conducts longitudinal studies on rural infrastructure and policy impact."
+  },
+  {
+    "name": "Dr. Ramesh Shrestha",
+    "slug": "ramesh-shrestha",
+    "role": "Education Reform Specialist",
+    "image": "https://img.freepik.com/free-photo/close-up-portrait-young-bearded-man-white-shirt-jacket-posing-camera-with-broad-smile-isolated-gray_171337-629.jpg?t=st=1746027481~exp=1746031081~hmac=3042ae4eb3fb2d03178f629587c1d07a74131e395fdb8d2db68039d9e9d80b5a&w=1380",
+    "team": "Education",
+    "bio": "Pedagogy reformer working to align education systems with modern skills."
+  },
+  {
+    "name": "Dr. Bina Thapa",
+    "slug": "bina-thapa",
+    "role": "Early Childhood Educator",
+    "image": "https://img.freepik.com/free-photo/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187.jpg?t=st=1746026982~exp=1746030582~hmac=24984fb8e25feb9348baa034fec286ceb8f8f98714bcbb83811acec94e0db455&w=1380",
+    "team": "Education",
+    "bio": "Early childhood education expert with nationwide impact studies."
+  },
+  {
+    "name": "Prof. Arjun Basnet",
+    "slug": "arjun-basnet",
+    "role": "Higher Education Policy Analyst",
+    "image": "https://img.freepik.com/free-photo/close-up-portrait-young-bearded-man-white-shirt-jacket-posing-camera-with-broad-smile-isolated-gray_171337-629.jpg?t=st=1746027481~exp=1746031081~hmac=3042ae4eb3fb2d03178f629587c1d07a74131e395fdb8d2db68039d9e9d80b5a&w=1380",
+    "team": "Education",
+    "bio": "Focuses on higher education policy and leadership in academic institutions."
+  },
+  {
+    "name": "Dr. Nisha Maharjan",
+    "slug": "nisha-maharjan",
+    "role": "EdTech Integrator",
+    "image": "https://img.freepik.com/free-photo/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187.jpg?t=st=1746026982~exp=1746030582~hmac=24984fb8e25feb9348baa034fec286ceb8f8f98714bcbb83811acec94e0db455&w=1380",
+    "team": "Education",
+    "bio": "Works on integrating technology into traditional learning frameworks."
+  },
+  {
+    "name": "Prof. Dr. Hari Bahadur Rana",
+    "slug": "prof-dr-hari-bahadur-rana",
+    "role": "Public Health Specialist",
+    "image": "https://img.freepik.com/free-photo/close-up-portrait-young-bearded-man-white-shirt-jacket-posing-camera-with-broad-smile-isolated-gray_171337-629.jpg?t=st=1746027481~exp=1746031081~hmac=3042ae4eb3fb2d03178f629587c1d07a74131e395fdb8d2db68039d9e9d80b5a&w=1380",
+    "team": "Health Science",
+    "bio": "Specializes in public health policy and community health initiatives."
+  },
+  {
+    "name": "Dr. Mina Thapa",
+    "slug": "mina-thapa",
+    "role": "Environmental Scientist",
+    "image": "https://img.freepik.com/free-photo/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187.jpg?t=st=1746026982~exp=1746030582~hmac=24984fb8e25feb9348baa034fec286ceb8f8f98714bcbb83811acec94e0db455&w=1380",
+    "team": "Environment",
+    "bio": "Environmental scientist focusing on biodiversity and conservation."
+  },
+  {
+    "name": "Dr. Rajan Gurung",
+    "slug": "rajan-gurung",
+    "role": "Geologist",
+    "image": "https://img.freepik.com/free-photo/close-up-portrait-young-bearded-man-white-shirt-jacket-posing-camera-with-broad-smile-isolated-gray_171337-629.jpg?t=st=1746027481~exp=1746031081~hmac=3042ae4eb3fb2d03178f629587c1d07a74131e395fdb8d2db68039d9e9d80b5a&w=1380",
+    "team": "Environment",
+    "bio": "Geologist studying Nepal's natural hazards and resource management."
+  },
+  {
+    "name": "Prof. Shila Koirala",
+    "slug": "shila-koirala",
+    "role": "Agriculture & Water Resource Specialist",
+    "image": "https://img.freepik.com/free-photo/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187.jpg?t=st=1746026982~exp=1746030582~hmac=24984fb8e25feb9348baa034fec286ceb8f8f98714bcbb83811acec94e0db455&w=1380",
+    "team": "Environment",
+    "bio": "Sustainable agriculture and water resource specialist."
+  },
+  {
+    "name": "Dr. Pradhumna Mahat",
+    "slug": "dr-pradhumna-mahat",
+    "role": "Chemistry Researcher",
+    "image": "https://img.freepik.com/free-photo/close-up-portrait-young-bearded-man-white-shirt-jacket-posing-camera-with-broad-smile-isolated-gray_171337-629.jpg?t=st=1746027481~exp=1746031081~hmac=3042ae4eb3fb2d03178f629587c1d07a74131e395fdb8d2db68039d9e9d80b5a&w=1380",
+    "team": "Science",
+    "bio": "Prominent academician and researcher since 2004, perused his doctorate in Chemistry."
+  },
+  {
+    "name": "Dr. Madhav Dhital",
+    "slug": "dr-madhav-dhital",
+    "role": "Physics Researcher",
+    "image": "https://img.freepik.com/free-photo/close-up-portrait-young-bearded-man-white-shirt-jacket-posing-camera-with-broad-smile-isolated-gray_171337-629.jpg?t=st=1746027481~exp=1746031081~hmac=3042ae4eb3fb2d03178f629587c1d07a74131e395fdb8d2db68039d9e9d80b5a&w=1380",
+    "team": "Science",
+    "bio": "Specializes in applied physics and materials science research."
+  },
+  {
+    "name": "Dr. Hare Ram Shrestha",
+    "slug": "dr-hare-ram-shrestha",
+    "role": "Urban Development Expert",
+    "image": "https://img.freepik.com/free-photo/close-up-portrait-young-bearded-man-white-shirt-jacket-posing-camera-with-broad-smile-isolated-gray_171337-629.jpg?t=st=1746027481~exp=1746031081~hmac=3042ae4eb3fb2d03178f629587c1d07a74131e395fdb8d2db68039d9e9d80b5a&w=1380",
+    "team": "Engineering",
+    "bio": "Prominent consultant and researcher since 1990, perused his doctorate in Urban Development."
+  },
+  {
+    "name": "Dr. Milan Bhattarai",
+    "slug": "milan-bhattarai",
+    "role": "Civil Engineer",
+    "image": "https://img.freepik.com/free-photo/close-up-portrait-young-bearded-man-white-shirt-jacket-posing-camera-with-broad-smile-isolated-gray_171337-629.jpg?t=st=1746027481~exp=1746031081~hmac=3042ae4eb3fb2d03178f629587c1d07a74131e395fdb8d2db68039d9e9d80b5a&w=1380",
+    "team": "Engineering",
+    "bio": "Specializes in structural engineering and infrastructure development."
+  },
+  {
+    "name": "Dr. Anil Gurung",
+    "slug": "anil-gurung",
+    "role": "AI & NLP Expert",
+    "image": "https://img.freepik.com/free-photo/close-up-portrait-young-bearded-man-white-shirt-jacket-posing-camera-with-broad-smile-isolated-gray_171337-629.jpg?t=st=1746027481~exp=1746031081~hmac=3042ae4eb3fb2d03178f629587c1d07a74131e395fdb8d2db68039d9e9d80b5a&w=1380",
+    "team": "Technology",
+    "bio": "AI researcher with experience in machine learning and NLP systems."
+  },
+  {
+    "name": "Chandra Bilas Bhurtel",
+    "slug": "chandra-bilas-bhurtel",
+    "role": "Software Architect",
+    "image": "https://img.freepik.com/free-photo/close-up-portrait-young-bearded-man-white-shirt-jacket-posing-camera-with-broad-smile-isolated-gray_171337-629.jpg?t=st=1746027481~exp=1746031081~hmac=3042ae4eb3fb2d03178f629587c1d07a74131e395fdb8d2db68039d9e9d80b5a&w=1380",
+    "team": "Technology",
+    "bio": "Expert in system design and enterprise software solutions."
+  },
+  {
+    "name": "Dr. Samjhana Rana",
+    "slug": "samjhana-rana",
+    "role": "Data Science Specialist",
+    "image": "https://img.freepik.com/free-photo/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187.jpg?t=st=1746026982~exp=1746030582~hmac=24984fb8e25feb9348baa034fec286ceb8f8f98714bcbb83811acec94e0db455&w=1380",
+    "team": "Technology",
+    "bio": "Big data and visualization specialist applying insights to development."
+  }
 ]
